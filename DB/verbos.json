@@ -1,0 +1,84 @@
+[
+    {
+        "id": "ir",
+        "descricao": "descritivo",
+        "qual_gerundio": "indo",
+        "qual_infinitivo": "ir",
+        "indicativo": {
+            "presente": {
+                "eu": "vou",
+                "tu": "vais",
+                "ele": "vou",
+                "nos": "vamos",
+                "vos": "ides",
+                "eles": "vão"
+            },
+            "preterito_imperfeito": {
+                "eu": "ia",
+                "tu": "ias",
+                "ele": "ia",
+                "nos": "íamos",
+                "vos": "íeis",
+                "eles": "iam"
+            },
+            "preterito_perfeito": {
+                "eu": "fui",
+                "tu": "foste",
+                "ele": "foi",
+                "nos": "fomos",
+                "vos": "fostes",
+                "eles": "foram"
+            },
+            "preterito_mais_que_perfeito": {
+                "eu": "fora",
+                "tu": "foras",
+                "ele": "fora",
+                "nos": "fôramos",
+                "vos": "foreis",
+                "eles": "foram"
+            },
+            "futuro_do_presente": {
+                "eu": "irei",
+                "tu": "irás",
+                "ele": "irá",
+                "nos": "iremos",
+                "vos": "ireis",
+                "eles": "irão"
+            },
+            "futuro_do_preterito": {
+                "eu": "iria",
+                "tu": "iras",
+                "ele": "iria",
+                "nos": "iríamos",
+                "vos": "iríeis",
+                "eles": "iriam"
+            }
+        },
+        "subjuntivo": {
+            "presente": {
+                "eu": "vá",
+                "tu": "vás",
+                "ele": "vá",
+                "nos": "vamos",
+                "vos": "vades",
+                "eles": "vão"
+            },
+            "preterito_imperfeito": {
+                "eu": "fosse",
+                "tu": "fosses",
+                "ele": "fosse",
+                "nos": "fôssemos",
+                "vos": "fôsseis",
+                "eles": "fossem"
+            },
+            "futuro": {
+                "eu": "for",
+                "tu": "fores",
+                "ele": "for",
+                "nos": "formos",
+                "vos": "fordes",
+                "eles": "forem"
+            }
+        }
+    }
+]
