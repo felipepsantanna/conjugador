@@ -80,5 +80,87 @@
                 "eles": "forem"
             }
         }
+    },
+    {
+        "id": "conseguir",
+        "descricao": "O verbo conseguir apresenta formas irregulares no presente do indicativo, presente do subjuntivo e imperativo",
+        "qual_gerundio": "conseguindo",
+        "qual_infinitivo": "conseguirTipo ",
+        "indicativo": {
+            "presente": {
+                "eu": "consigo",
+                "tu": "consegues",
+                "ele": "consegue",
+                "nos": "conseguimos",
+                "vos": "conseguis",
+                "eles": "conseguem"
+            },
+            "preterito_imperfeito": {
+                "eu": "conseguia",
+                "tu": "conseguias",
+                "ele": "conseguia",
+                "nos": "conseguíamos",
+                "vos": "conseguíeis",
+                "eles": "conseguiam"
+            },
+            "preterito_perfeito": {
+                "eu": "consegui",
+                "tu": "conseguiste",
+                "ele": "conseguiu",
+                "nos": "conseguimos",
+                "vos": "conseguistes",
+                "eles": "conseguiram"
+            },
+            "preterito_mais_que_perfeito": {
+                "eu": "conseguira",
+                "tu": "conseguiras",
+                "ele": "conseguira",
+                "nos": "conseguíramos",
+                "vos": "conseguíreis",
+                "eles": "conseguiram"
+            },
+            "futuro_do_presente": {
+                "eu": "conseguirei",
+                "tu": "conseguirás",
+                "ele": "conseguirá",
+                "nos": "conseguiremos",
+                "vos": "conseguireis",
+                "eles": "conseguirão"
+            },
+            "futuro_do_preterito": {
+                "eu": "conseguiria",
+                "tu": "conseguirias",
+                "ele": "conseguiria",
+                "nos": "conseguiríamos",
+                "vos": "conseguiríeis",
+                "eles": "conseguiriam"
+            }
+        },
+        "subjuntivo": {
+            "presente": {
+                "eu": "consiga",
+                "tu": "consigas",
+                "ele": "consiga",
+                "nos": "consigamos",
+                "vos": "consigais",
+                "eles": "consigam"
+            },
+            "preterito_imperfeito": {
+                "eu": "conseguisse",
+                "tu": "conseguisses",
+                "ele": "conseguisse",
+                "nos": "conseguíssemos",
+                "vos": "conseguísseis",
+                "eles": "conseguissem"
+            },
+            "futuro": {
+                "eu": "conseguir",
+                "tu": "conseguires",
+                "ele": "conseguir",
+                "nos": "conseguirmos",
+                "vos": "conseguirdes",
+                "eles": "conseguirem"
+            }
+        }
     }
 ]
